@@ -10,30 +10,36 @@ Compare model performance across original and reduced datasets
 Visualize and export results, including confusion matrices and metrics
 
 
-#Models Used
+# Models Used
+
 Logistic Regression
+
 Decision Tree
+
 Random Forest
+
 Support Vector Machine (SVM)
 
 
-#Evaluation Metrics
+# Evaluation Metrics
+
 Accuracy
+
 Precision
+
 Recall
+
 F1-Score
 
 
 #Output
+
 model_comparison_iris.xlsx — contains:
+
 Performance metrics across Original, PCA, and LDA datasets
+
 Confusion matrices for each model (model_name.png)
 
-
-
-#Libraries
-scikit-learn
-pandas
 
 matplotlib
 
